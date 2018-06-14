@@ -1,0 +1,14 @@
+PualBot:
+token:576441925:AAGE_O8rtJ70pU5UqtO_r0tD-ldrTUnvTjc
+
+ZhenruBot:
+token:605119890:AAFLpkOguOSDexbm5Gmbm2bMEP8veKrjIq8
+
+Group:BotChat
+id:-277055326
+
+Nodejs Docs:
+https://www.npmjs.com/package/node-telegram-bot-api
+
+Python Docs:
+https://github.com/python-telegram-bot/python-telegram-bot/wiki/Introduction-to-the-API
